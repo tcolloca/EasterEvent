@@ -1,0 +1,6 @@
+src/flas/easter2015/rooms/main_room.fla
+src/flas/easter2015/puzzles/magazine.fla
+src/flas/easter2015/puzzles/map.fla
+src/flas/easter2015/puzzles/trash.fla
+src/flas/easter2015/puzzles/fridge.fla
+src/flas/easter2015/puzzles/shake.fla

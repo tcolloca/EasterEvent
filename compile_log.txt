@@ -1,0 +1,37 @@
+Running compile on undefined files at: file:///E|/BACKUP%20Data/Tom/tomate/arte/Plots%20MT/Flash%20As3/
+
+---------------------------------------------------------------------------
+Compiling src/flas/easter2015/rooms/main_room.fla
+---------------------------------------------------------------------------
+
+Compiled src/flas/easter2015/rooms/main_room.fla successfully.
+
+---------------------------------------------------------------------------
+Compiling src/flas/easter2015/puzzles/magazine.fla
+---------------------------------------------------------------------------
+
+Compiled src/flas/easter2015/puzzles/magazine.fla successfully.
+
+---------------------------------------------------------------------------
+Compiling src/flas/easter2015/puzzles/map.fla
+---------------------------------------------------------------------------
+
+Compiled src/flas/easter2015/puzzles/map.fla successfully.
+
+---------------------------------------------------------------------------
+Compiling src/flas/easter2015/puzzles/trash.fla
+---------------------------------------------------------------------------
+
+Compiled src/flas/easter2015/puzzles/trash.fla successfully.
+
+---------------------------------------------------------------------------
+Compiling src/flas/easter2015/puzzles/fridge.fla
+---------------------------------------------------------------------------
+
+Compiled src/flas/easter2015/puzzles/fridge.fla successfully.
+
+---------------------------------------------------------------------------
+Compiling src/flas/easter2015/puzzles/shake.fla
+---------------------------------------------------------------------------
+
+Compiled src/flas/easter2015/puzzles/shake.fla successfully.
